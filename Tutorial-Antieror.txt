@@ -1,0 +1,13 @@
+Silakan Edit Tampilan Login Sendiri
+Jangan Hapus Rest Api Kalo ga mau erorr
+
+CODE REDEEM: sChTDeEKnb
+
+SETING DI Privacy-Policy.html Lari Ke baris 12 pas (#GANTI DENGAN WEB KALIAN) ganti dengan web kalian
+ini cuma set biar web ga mudah terdetec spam oleh robot google kalian bisa gunakan bisa kaga
+
+Rekomendasi Kalo pake hosting standar dan mau tebar pake ads fb wajib gunakan Privacy-Policy.html
+
+Script ini open source jadi kalian bisa kembangin lagi agar lebih bagus
+
+//License by imnoob59//
